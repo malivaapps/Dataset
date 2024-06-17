@@ -8,8 +8,8 @@ This dataset serves as a valuable resource in the field of tourism management an
 This scientific approach not only enriches the dataset's diversity but also contributes to the broader field of AI-driven tourism technologies, pushing the boundaries of what travel applications can achieve.
 
 **Resource:**
-<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=4432'>Wisata Alam Pantai Kabupaten Malang 2021</a> 
-<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8994'>Wisata Alam (Agro) di Kabupaten Malang 2023</a> 
-<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=2534'>Data Daya Tarik Wisata Budaya di Kabupaten Malang 2022</a> 
-<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8997'>Data Daya Tarik Wisata Alam di Kabupaten Malang 2023</a>
+* <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=4432'>Wisata Alam Pantai Kabupaten Malang 2021</a> 
+* <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8994'>Wisata Alam (Agro) di Kabupaten Malang 2023</a> 
+* <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=2534'>Data Daya Tarik Wisata Budaya di Kabupaten Malang 2022</a> 
+* <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8997'>Data Daya Tarik Wisata Alam di Kabupaten Malang 2023</a>
 <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8999'>Data Daya Tarik Wisata Alam Pantai di Kabupaten Malang 2023</a>
