@@ -8,4 +8,8 @@ This dataset serves as a valuable resource in the field of tourism management an
 This scientific approach not only enriches the dataset's diversity but also contributes to the broader field of AI-driven tourism technologies, pushing the boundaries of what travel applications can achieve.
 
 **Resource:**
-*kamasuta.malangkab.go.id
+<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=4432'>Your Link</a> 
+<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8994'>Your Link</a> 
+<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=2534'>Your Link</a> 
+<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8997'>Your Link</a>
+<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8999'>Your Link</a>
