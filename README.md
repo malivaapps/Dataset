@@ -12,4 +12,4 @@ This scientific approach not only enriches the dataset's diversity but also cont
 * <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8994'>Wisata Alam (Agro) di Kabupaten Malang 2023</a> 
 * <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=2534'>Data Daya Tarik Wisata Budaya di Kabupaten Malang 2022</a> 
 * <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8997'>Data Daya Tarik Wisata Alam di Kabupaten Malang 2023</a>
-<a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8999'>Data Daya Tarik Wisata Alam Pantai di Kabupaten Malang 2023</a>
+* <a href='https://kamasuta.malangkab.go.id/data-nilai-public?id=8999'>Data Daya Tarik Wisata Alam Pantai di Kabupaten Malang 2023</a>
